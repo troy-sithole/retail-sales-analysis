@@ -71,9 +71,12 @@ retail-sales-analysis/
 2. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib
-   Launch Jupyter Notebook:
+   ```
+3. Launch Jupyter Notebook:
+   ```
    python -m notebook
    ```
+4. Open the notebook and run all cells from top to bottom.
 
 📌 Notes & Future Work
 
@@ -85,4 +88,5 @@ This project focuses on exploratory analysis and foundational techniques. Potent
 
 ## 👤 Author
 Troy Sithole
+
 
