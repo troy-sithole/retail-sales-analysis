@@ -63,6 +63,8 @@ retail-sales-analysis/
 |
 |– average_sales_by_city.png
 |– README.md
+|-- .gitignore
+
 ```
 ---
 
@@ -89,6 +91,7 @@ This project focuses on exploratory analysis and foundational techniques. Potent
 
 ## 👤 Author
 Troy Sithole
+
 
 
 
