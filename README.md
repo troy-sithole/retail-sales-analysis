@@ -53,7 +53,7 @@ The bar chart below illustrates the difference in average sales value between Bu
 ---
 
 ## 📂 Project Structure
-
+```
 retail-sales-analysis/
 |– data/
 |   |– retail_sales.csv
@@ -63,7 +63,7 @@ retail-sales-analysis/
 |
 |– average_sales_by_city.png
 |– README.md
-
+```
 ---
 
 ## 🚀 How to Run the Project
@@ -85,3 +85,4 @@ This project focuses on exploratory analysis and foundational techniques. Potent
 
 ## 👤 Author
 Troy Sithole
+
