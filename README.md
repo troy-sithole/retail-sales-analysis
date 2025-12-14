@@ -81,12 +81,14 @@ retail-sales-analysis/
 📌 Notes & Future Work
 
 This project focuses on exploratory analysis and foundational techniques. Potential future improvements include:
+```
 	•	Revenue aggregation by city
 	•	Time-based trend analysis
 	•	Additional visualizations
 	•	Data validation and cleaning
-
+```
 ## 👤 Author
 Troy Sithole
+
 
 
